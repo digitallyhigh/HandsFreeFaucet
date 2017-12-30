@@ -6,3 +6,6 @@ Arduino code for Hands free Faucet built using an HC-SR04 and a Servo
 - HC-SR04 Ultrasonic Sensor
 - Servo Motor
 - Jumper Cables
+
+### Other Components
+- Straw/wire to couple servo and Faucet
